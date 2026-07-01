@@ -1,6 +1,17 @@
-<img width="500" height="280" alt="c32c6daaa4d17c9b3b0f0d1eabe58f72" src="https://github.com/user-attachments/assets/62165c99-1445-490e-a568-46c09bb1dec3" />
+<img width="540" height="228" alt="neon genesis evangelion kaworu | Tumblr" src="https://github.com/xth0w/xth0w/raw/main/banner.gif" />
 
-I'm **Thom**!
+# Hi, I'm Thom
 
-> 💻 Interested in technology  
-> 📚 Passionate about history, politics, and whatever makes me happy :)
+> i love technology and everything that makes me happy!
+
+## 🧠 Interests
+
+- 💻 Technology & software development
+- 📚 History & political systems
+- 🌱 Learning, experimenting, and building things
+
+---
+
+<!--
+idk how to make a good readme
+-->
